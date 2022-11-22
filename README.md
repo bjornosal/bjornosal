@@ -2,14 +2,14 @@
 
 I like making things. 
 
-### Spill med mormor - www.spillmedmormor.no
-
-A simple page for videochatting and playing chess. Made as a christmas present for my grandma during the covid pandemic. 
-
-
 ### Leike - www.leike.no
 
-A page with crowdsourced data for things like table tennis, playgrounds and lots more.
+Map of crowdsourced data for activities nearby.
+
+
+### Spill med mormor - www.spillmedmormor.no [decommissioned]
+
+A simple page for videochatting and playing chess. Made as a christmas present for my grandma during the covid pandemic. 
 
 
 
